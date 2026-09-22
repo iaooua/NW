@@ -1,0 +1,6 @@
+chapter: 2.7 誤り制御
+name: BCC 
+fullName: Block Check Character 
+jaName: -
+description: |
+  水平パリティを行うための、ブロック（文字列）の末尾に付す冗長ビット。
