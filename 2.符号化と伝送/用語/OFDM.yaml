@@ -5,3 +5,19 @@ jaName: 直交周波数分割多重方式
 description: |
   周波数の異なる搬送波を使って、パケット送信を並列に行う方式。
   IEEE 802.11 でも採用されている。
+confer:
+  - name: ASK
+    fullName: Ampitude Shift Keying
+    jaName: 振幅変調
+    description: |
+      振幅の大きさで 0 or 1 を判別する。
+  - name: FSK
+    fullName: Frequency Sift Keying
+    jaName: 周波数変調
+    description: |
+      周波数の違いで 0 or 1 を判別する。
+  - name: PSK
+    fullName: Phase Shift Keying 
+    jaName: 位相変調
+    description: |
+      位相の変化で 0 or 1 を判別する。
