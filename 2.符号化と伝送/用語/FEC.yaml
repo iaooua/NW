@@ -1,0 +1,6 @@
+chapter: 2.7 誤り制御
+name: FEC
+fullName: Forward Error Correction 
+jaName: 誤り訂正
+description: |
+  受信側が冗長データをから正常なデータを復元する。
