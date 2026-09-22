@@ -1,0 +1,5 @@
+name: ARQ
+fullName: Automatic Repeat Requests
+jaName: 自動再送要求
+description: |
+  誤りを検出したパケットの「再送」を要求する。
