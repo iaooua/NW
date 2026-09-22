@@ -1,0 +1,7 @@
+chapter: 2.4
+name: OFDM
+fullName: Orthogonal Frequency-Division Multiplexing
+jaName: 直交周波数分割多重方式
+description: |
+  周波数の異なる搬送波を使って、パケット送信を並列に行う方式。
+  IEEE 802.11 でも採用されている。
